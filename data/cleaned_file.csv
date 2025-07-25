@@ -1,0 +1,51 @@
+﻿id,track_name,artist,album,popularity,duration_minutes
+1,DADA Song,Jen Martin,DADA (Original Motion Picture Soundtrack),45,5.11
+2,Namma Thamizh Folku,Jen Martin,DADA (Original Motion Picture Soundtrack),48,4.5625
+3,Thayaga Naan,Jen Martin,DADA (Original Motion Picture Soundtrack),52,3.09707
+4,Kannai Kasakkum Sooriyano,Deva,Red (Original Motion Picture Soundtrack),44,7.06955
+5,Anbae Anbae,Hariharan,Uyirodu Uyiraga,44,5.16755
+6,Innisai,Tanvi Shah,Godfather (Original Motion Picture Soundtrack),38,5.23338
+7,Unakkenna Unakkenna,Bharadwaj,Attagasam (Original Motion Picture Soundtrack),35,4.488
+8,"Oh Nenje Nenje (From Mugavari"")""",Deva,Deva Classic Songs,49,5.95922
+9,Kanavellaam,Jeychandhran,Kireedam,43,5.252
+10,Thekku Cheemaiyilae,Bharadwaj,Attagasam (Original Motion Picture Soundtrack),53,4.58377
+11,"Naanga Vera Maari (From Valimai"")""",Yuvan Shankar Raja,"Naanga Vera Maari (From Valimai"")""",47,4.23908
+12,Kadhalaada,Anirudh Ravichander,Vivegam (Original Motion Picture Soundtrack),51,4.26992
+13,Vilayaadu Mankatha,Yuvan Shankar Raja,Mankatha (Original Motion Picture Soundtrack),52,6.0551
+14,Enna Solla Pogirai,Shankar Mahadevan,Kandukondain Kandukondain,62,6.01467
+15,Akkam Pakkam,Sadhana Sargam,Kireedam,65,5.26667
+16,Aaluma Doluma,Anirudh Ravichander,Vedalam (Original Motion Picture Soundtrack),64,4.30053
+17,Machi Open the Bottle,Yuvan Shankar Raja,Mankatha (Original Motion Picture Soundtrack),63,4.76622
+18,Unakkenna Venum Sollu,Harris Jayaraj,Yennai Arindhaal (Original Motion Picture Soundtrack),60,5.13737
+19,Naa Ready,Anirudh Ravichander,Leo (Original Motion Picture Soundtrack),65,4.13635
+20,Hukum - Thalaivar Alappara,Anirudh Ravichander,Jailer (Original Motion Picture Soundtrack),67,3.46078
+21,"Hunter Vantaar (From Vettaiyan"")""",Anirudh Ravichander,"Hunter Vantaar (From Vettaiyan"")""",66,3.21052
+22,"Hey Minnale (From Amaran"") (Tamil)""",G. V. Prakash,"Hey Minnale (From Amaran"") (Tamil)""",70,3.83018
+23,Yendi Vittu Pona,Leon James,Dragon (Original Motion Picture Soundtrack),65,4.31033
+24,"Paiya Dei - From Think Indie""""",Asal Kolaar,"Paiya Dei (From Think Indie"")""",70,2.59
+25,"Champagini - From Think Indie""""",Asal Kolaar,"Champagini (From Think Indie"")""",70,1.93827
+26,Vazhithunaiye,Leon James,Dragon (Original Motion Picture Soundtrack),66,3.63808
+27,"Chillanjirukkiye (From Lubber Pandhu"")""",Sean Roldan,"Chillanjirukkiye (From Lubber Pandhu"")""",72,4.12413
+28,Kannadi Poove,Santhosh Narayanan,Retro [TAMIL],68,4.35082
+29,"Ada All Thotta Boopathi (From Youth"")""",Mani Sharma,Youth (Original Motion Picture Soundtrack),65,4.92022
+30,"Sugar Baby (From Thug Life"") (Tamil)""",A.R. Rahman,"Sugar Baby (From Thug Life"") (Tamil)""",62,3.324
+31,"Sithira Puthiri - From Think Indie""""",Sai Abhyankkar,"Sithira Puthiri (From Think Indie"")""",73,3.77442
+32,"God Bless U (From Good Bad Ugly"")""",Anirudh Ravichander,"God Bless U (From Good Bad Ugly"")""",71,4.00373
+33,"Og Sambavam (From Good Bad Ugly"")""",G. V. Prakash,"Og Sambavam (From Good Bad Ugly"")""",72,3.30168
+34,Malaayooru,Megha,Mambattiyan,72,4.19787
+35,"Kanimaa (From Retro"")""",Santhosh Narayanan,"Kanimaa (From Retro"")""",75,4.05372
+36,"Jinguchaa (From Thug Life"") (Tamil)""",A.R. Rahman,"Jinguchaa (From Thug Life"") (Tamil)""",73,4.33857
+37,Muththa Mazhai (Reprise),A.R. Rahman,Thug Life (Tamil),77,4.0044
+38,Peelings [TAMIL],Senthil Ganesh,Pushpa 2 The Rule [TAMIL],62,4.1198
+39,Kissik [TAMIL],Sublahshini,Pushpa 2 The Rule [TAMIL],45,4.12125
+40,Pushpa Pushpa [TAMIL],Nakash Aziz,Pushpa 2 The Rule [TAMIL],45,4.2678
+41,"Monica (From Coolie"") (Tamil)""",Anirudh Ravichander,"Monica (From Coolie"") (Tamil)""",76,3.62712
+42,Kanne Kalaimaane,Ilaiyaraaja,Moondram Pirai (Original Motion Picture Soundtrack),45,4.20843
+43,Engade Nee Ponae,S. P. Balasubrahmanyam,Dev,42,5.20575
+44,"K For Kabaradakkam (From Guruvayoorambala Nadayil"")""",Ankit Menon,"K For Kabaradakkam (From Guruvayoorambala Nadayil"")""",69,2.42142
+45,"Beer Song - From Diesel""""",Dhibu Ninan Thomas,"Beer Song (From Diesel"")""",70,3.27385
+46,Nee Pottu Vechcha,Ilaiyaraaja,Ponmana Selvan (Original Motion Picture Soundtrack),53,4.4331
+47,Porkkalam - Tamil Rap,G. V. Prakash,Aadukalam (Original Motion Picture Soundtrack),56,4.34177
+48,Theemai Dhaan Vellum - Awakening the Monster,Hiphop Tamizha,Thani Oruvan (Original Motion Picture Soundtrack),60,3.54162
+49,Area Gaana (Enga Veetu Kuthuvilakkey),Santhosh Narayanan,Meyaadha Maan (Original Motion Picture Soundtrack),44,4.34073
+50,"Makkamishi - From Brother""""",Harris Jayaraj,"Makkamishi (From Brother"")""",63,4.23713

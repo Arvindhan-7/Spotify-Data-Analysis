@@ -1,0 +1,17 @@
+Spotify Data Analysis
+
+The dependencies of the project is
+Pandas
+Spotipy
+MySQL Connector
+SpotifyClientCredentials from spotipy.oauth2
+
+From the view of a database,
+MySQL Workbench (preferred) or Command line client
+
+From the view of spotify,
+A account on spotify
+An App from Spotify Developer for client_id and client_secret key
+
+From the view of data,
+The primary data is the URIs of each songs that you want to analyse, which are gathered here in the ani_track.txt file, You can create your own set of song lists from the spotify website, by capturing and storing the URI.
